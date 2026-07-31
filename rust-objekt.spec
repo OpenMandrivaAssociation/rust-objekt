@@ -5,8 +5,8 @@
 %global crate objekt
 
 Name:           rust-%{crate}
-Version:        0.1.2
-Release:        3%{?dist}
+Version:        0.2.0
+Release:        1%{?dist}
 Summary:        Clone trait that is object-safe
 
 # Upstream license specification: MIT/Apache-2.0
